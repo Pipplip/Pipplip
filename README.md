@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pipplip (Philipp)
-- 👀 I’m interested in Java and Python
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking...
 - 📫 How to reach me ...
 
 <!---
